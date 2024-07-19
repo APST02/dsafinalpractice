@@ -9,5 +9,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/APST02/dsafinalpractice/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/APST02/dsafinalpractice/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/APST02/dsafinalpractice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
