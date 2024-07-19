@@ -11,8 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/APST02/dsafinalpractice/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/APST02/dsafinalpractice/tree/master/0136-single-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/APST02/dsafinalpractice/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/APST02/dsafinalpractice/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/APST02/dsafinalpractice/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
