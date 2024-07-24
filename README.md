@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/APST02/dsafinalpractice/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/APST02/dsafinalpractice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/APST02/dsafinalpractice/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/APST02/dsafinalpractice/tree/master/0283-move-zeroes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/APST02/dsafinalpractice/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/APST02/dsafinalpractice/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/APST02/dsafinalpractice/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
