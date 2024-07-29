@@ -42,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/APST02/dsafinalpractice/tree/master/0344-reverse-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/APST02/dsafinalpractice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
