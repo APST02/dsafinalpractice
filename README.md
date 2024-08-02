@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/APST02/dsafinalpractice/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/APST02/dsafinalpractice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/APST02/dsafinalpractice/tree/master/0136-single-number) |
+| [0240-search-a-2d-matrix-ii](https://github.com/APST02/dsafinalpractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/APST02/dsafinalpractice/tree/master/0283-move-zeroes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/APST02/dsafinalpractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/APST02/dsafinalpractice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/APST02/dsafinalpractice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/APST02/dsafinalpractice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/APST02/dsafinalpractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/APST02/dsafinalpractice/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Math
 |  |
@@ -61,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/APST02/dsafinalpractice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/APST02/dsafinalpractice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/APST02/dsafinalpractice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/APST02/dsafinalpractice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/APST02/dsafinalpractice/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/APST02/dsafinalpractice/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
