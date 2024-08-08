@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/APST02/dsafinalpractice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/APST02/dsafinalpractice/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/APST02/dsafinalpractice/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/APST02/dsafinalpractice/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/APST02/dsafinalpractice/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/APST02/dsafinalpractice/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/APST02/dsafinalpractice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/APST02/dsafinalpractice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
