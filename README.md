@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/APST02/dsafinalpractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/APST02/dsafinalpractice/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/APST02/dsafinalpractice/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/APST02/dsafinalpractice/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/APST02/dsafinalpractice/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/APST02/dsafinalpractice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/APST02/dsafinalpractice/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
